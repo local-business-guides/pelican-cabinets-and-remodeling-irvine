@@ -32,6 +32,9 @@
 - [Best Kitchen Cabinets Irvine](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/best-kitchen-cabinets-irvine/): Best Kitchen Cabinets Irvine: compare custom and refreshed cabinet options, plan your kitchen update, and call Pelican Cabinets & Remodeling in Irvine.
 - [Top Rated Kitchen Cabinets Irvine](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/top-rated-kitchen-cabinets-irvine/): Top Rated Kitchen Cabinets Irvine: review cabinet options, clarify project scope, and plan your Irvine kitchen. Call Pelican Cabinets & Remodeling today.
 
+## Newsroom
+- [Pelican Cabinets & Remodeling Publishes Guide to Kitchen Cabinets Irvine](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/news/2026-11-15-pelican-cabinets-remodeling-publishes-guide-to/): Pelican Cabinets & Remodeling published a guide to kitchen cabinets Irvine, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-15)
+
 ## Pages
 - [Kitchen Cabinets in Irvine, California](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/): Explore cabinet and remodeling options that make your Irvine home work better for you. Call +1949-299-2370.
 - [About Pelican Cabinets & Remodeling](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/about/): About Pelican Cabinets & Remodeling, Irvine.
@@ -39,4 +42,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/pelican-cabinets-and-remodeling-irvine/news/rss.xml)
 - [Main resource site](https://pelican-cabinets-irvine.localwebsites.chatgpt.site)
